@@ -3,9 +3,8 @@ using API.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-[ApiController]
-[Route("api/[controller]")]
-public class UsersController : ControllerBase
+namespace API.Controllers;
+public class UsersController : BaseApiController
 {
 
     private readonly DataContext _context;
