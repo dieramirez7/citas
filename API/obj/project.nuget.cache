@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rh9CTQP+7qzMUQq88casW5JkvmI+QkS2Ew8lNoKYIQVupT/uxpUlsf5UvNqqBvpHGVs/6QwsGv/0xvzKZ0monQ==",
+  "dgSpecHash": "ohG7u1KQX5pmqwW2CyPPp500RXwjJTjvhVyMgLpfQffo3knHHUD//T4mgPmpLRzC4PJVePzvrXEQ84JgvT9WgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carli\\Desktop\\9noSemestre\\citasApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\carli\\Desktop\\9noSemestre\\citasApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carli\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\carli\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.11\\microsoft.aspnetcore.authentication.jwtbearer.7.0.11.nupkg.sha512",
     "C:\\Users\\carli\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.10\\microsoft.data.sqlite.core.7.0.10.nupkg.sha512",
     "C:\\Users\\carli\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\carli\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
@@ -26,6 +27,8 @@
     "C:\\Users\\carli\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.0\\microsoft.identitymodel.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\carli\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.0\\microsoft.identitymodel.jsonwebtokens.7.0.0.nupkg.sha512",
     "C:\\Users\\carli\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.0\\microsoft.identitymodel.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\carli\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "C:\\Users\\carli\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
     "C:\\Users\\carli\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.0\\microsoft.identitymodel.tokens.7.0.0.nupkg.sha512",
     "C:\\Users\\carli\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\carli\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
