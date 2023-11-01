@@ -69,3 +69,6 @@ C:\Users\carli\Desktop\9noSemestre\citasApp\API\bin\Debug\net7.0\System.Identity
 C:\Users\carli\Desktop\9noSemestre\citasApp\api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\carli\Desktop\9noSemestre\citasApp\api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\carli\Desktop\9noSemestre\citasApp\api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\carli\Desktop\9noSemestre\citasApp\api\bin\Debug\net7.0\data\UserSeedData.json
+C:\Users\carli\Desktop\9noSemestre\citasApp\api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\carli\Desktop\9noSemestre\citasApp\api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
